@@ -28,7 +28,7 @@ Web予約フォーム × カレンダー連携 × バッファ管理 × 自動�
 ## 🖥️ 画面イメージ
 
 <!--
-![予約フォームUI](<img width="1920" height="720" alt="予約画面1" src="https://github.com/user-attachments/assets/6191fae2-4fd0-4f80-9996-e71826d8314b" />
+![予約フォームUI](<予約画面1.png />
 )
 ![カレンダー選択画面](<img width="1920" height="716" alt="予約画面2" src="https://github.com/user-attachments/assets/5432e0c7-1996-4e21-a4cb-9cf558cb549c" />
 )
